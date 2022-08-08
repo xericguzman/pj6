@@ -42,7 +42,7 @@ function App() {
   return (
     <>
       <div className="poke-container">
-        <h1>Pokemon, in card order, 20 at a time</h1>
+        <h1>Pokemon, in card order, every generation</h1>
         <div className="poke-list">
           <Pokedex pokemon={pokemon} />
         </div>
